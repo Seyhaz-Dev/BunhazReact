@@ -1,18 +1,18 @@
-# 🚀 BunhazReact
+# BunhazReact
 
 ### My React.js Learning Journey
 
-Welcome to my React.js repository! This is where I practice coding, build small projects, and improve my frontend development skills.
+This repository is where I practice React.js, build small projects, and improve my coding skills.
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Seyha Sem**.
 
-I'm a Web and Mobile Application Development student who loves learning programming and building websites.
+I'm a Web and Mobile Application Development student who enjoys programming and building websites.
 
 My goal is to become a Full-Stack Developer.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - JavaScript (ES6+)
@@ -29,7 +29,6 @@ BunhazReact/
 ├── src/
 │   ├── assets/
 │   ├── components/
-│   ├── layouts/
 │   ├── pages/
 │   ├── hooks/
 │   ├── context/
@@ -37,48 +36,31 @@ BunhazReact/
 │   ├── utils/
 │   ├── data/
 │   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
 │   └── main.jsx
 ├── package.json
-├── vite.config.js
 └── README.md
 
-Do you think good or not ?
+
+##  Installation
+
+**1. Clone the repository**
+
+git clone https://github.com/Seyhaz-Dev/BunhazReact.git
 
 
-## ⚙️ Create a React Project
-
-Follow these steps to create a new React project using Vite.
-
-**1. Create a React project**
-
-
-npm create vite@latest BunhazReact -- --template react
-
-
-**2. Open the project folder**
-
+**2. Open the project**
 
 cd BunhazReact
-
 
 **3. Install dependencies**
 
 npm install
 
-
-**4. Start the development server**
+**4. Run the project**
 
 npm run dev
 
-
-**5. Open in your browser**
-
-Visit the local URL shown in your terminal to see your React application.
-
-
-## 📚 Learning Roadmap
+##  Learning Roadmap
 
 - [ ] React Fundamentals
 - [ ] JSX & Components
@@ -92,9 +74,9 @@ Visit the local URL shown in your terminal to see your React application.
 
 ##  My Goal
 
-Learn something new every day, practice more, and become a better developer.
-
 **Learn → Practice → Build → Improve**
+
+Keep learning and become a better developer every day.
 
 ##  Author
 
@@ -103,6 +85,7 @@ Learn something new every day, practice more, and become a better developer.
 GitHub: [@Seyhaz-Dev](https://github.com/Seyhaz-Dev)
 
 ---
-Thanks for visiting my repository! (AhKLA)
 
-**Keep Learning. Keep Building. 🚀**
+Thanks for visiting my repository!
+
+**Keep Learning. Keep Building. **
