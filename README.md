@@ -24,7 +24,7 @@ My goal is to become a professional Full-Stack Developer.
 
 ## 📁 Project Structure
 
-```text
+
 BunhazReact/
 │
 ├── public/
@@ -63,35 +63,32 @@ BunhazReact/
 
 ### 1. Clone Repository
 
-```bash
+
 git clone https://github.com/Seyhaz-Dev/BunhazReact.git
-```
+
 
 ### 2. Navigate to Project
 
-```bash
 cd BunhazReact
-```
+
 
 ### 3. Install Dependencies
 
-```bash
 npm install
-```
+
 
 ### 4. Start Development Server
 
-```bash
 npm run dev
-```
+
 
 ### 5. Build for Production
 
-```bash
-npm run build
-```
 
-## 📚 React Learning Roadmap
+npm run build
+
+
+##  React Learning Roadmap
 
 - [ ] React Fundamentals
 - [ ] JSX and Components
@@ -130,6 +127,6 @@ I believe that consistent practice and building real-world projects are the best
 
 ---
 
-⭐ If you find this repository interesting, feel free to explore it!
+If you find this repository interesting, feel free to explore it!
 
 **Keep Learning. Keep Building. Keep Growing.** 🚀
